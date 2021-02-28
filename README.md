@@ -18,3 +18,11 @@ ParameterServlet.java
 - 요청 시 입력받은 parameter를 읽어들여 출력함.
 
 ![image](https://user-images.githubusercontent.com/44190559/109128617-0011da80-7793-11eb-9107-983acffc6f7d.png)
+
+## 21/02/28
+
+sum10.jsp
+
+- jsp 쓰는 이유 : html 안에 java로 돌아가는 프로그램 넣기 위해서! 
+
+![image](https://user-images.githubusercontent.com/44190559/109409894-be26a580-79d9-11eb-8cfa-5aa938a93188.png)
