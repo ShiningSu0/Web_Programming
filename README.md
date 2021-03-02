@@ -26,3 +26,18 @@ sum10.jsp
 - jsp 쓰는 이유 : html 안에 java로 돌아가는 프로그램 넣기 위해서! 
 
 ![image](https://user-images.githubusercontent.com/44190559/109409894-be26a580-79d9-11eb-8cfa-5aa938a93188.png)
+
+## 21/03/02
+
+exam2.jsp, exam4.jsp
+
+- jsp page에서는 Declaration, Scriptlet, Expression의 3가지 script 요소를 제공
+- Declaration <%! %> : 전역변수 선언 및 메소드 선언에 사용
+- Scriptlet <% %> : 프로그래밍 코드 기술에 사용
+- Expression <%= %> : 화면에 출력할 내용 기술에 사용
+
+- jsp page에서 사용할 수 있는 주석은 HTML, Java, JSP 3가지 종류
+- HTML 주석 : <!-- 주석 -->
+- JSP 주석 : <%-- 주석 --%>
+- Java 주석 : //, /**/
+![image](https://user-images.githubusercontent.com/44190559/109608687-95371980-7b6d-11eb-8dfe-1bdaf69c72dd.png)
