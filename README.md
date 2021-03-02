@@ -37,7 +37,8 @@ exam2.jsp, exam4.jsp
 - Expression <%= %> : 화면에 출력할 내용 기술에 사용
 
 - jsp page에서 사용할 수 있는 주석은 HTML, Java, JSP 3가지 종류
-- HTML 주석 : <!-- 주석 -->
+- HTML 주석 : < !-- 주석 -->
 - JSP 주석 : <%-- 주석 --%>
 - Java 주석 : //, /**/
+
 ![image](https://user-images.githubusercontent.com/44190559/109608687-95371980-7b6d-11eb-8dfe-1bdaf69c72dd.png)
