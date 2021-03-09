@@ -42,3 +42,21 @@ exam2.jsp, exam4.jsp
 - Java 주석 : //, /**/
 
 ![image](https://user-images.githubusercontent.com/44190559/109608687-95371980-7b6d-11eb-8dfe-1bdaf69c72dd.png)
+
+## 21/03/09
+
+el01.jsp
+
+- EL(Expression Language)는 값을 표현하는 데 사용되는 스크립트 언어로, JSP의 기본 문법을 보완하는 역할.
+
+* EL의 기능
+- JSP의 Scope에 맞는 속성 사용
+- 집합 객체에 대한 접근 방법 제공
+- 수치, 관계, 논리 연산자 제공
+- 자바 클래스의 기본 메소드 호출 기능 제공
+- 표현 언어만의 기본 객체 제공
+
+- 문법 : ${expr}
+- ex) 요청 URI: ${pageContext.request.requestURI} 
+
+![image](https://user-images.githubusercontent.com/44190559/110432249-3552ec80-80f2-11eb-81b3-d0f187fdb4a2.png)
