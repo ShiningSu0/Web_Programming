@@ -60,3 +60,12 @@ EL의 기능
 - ex) 요청 URI: ${pageContext.request.requestURI} 
 
 ![image](https://user-images.githubusercontent.com/44190559/110432249-3552ec80-80f2-11eb-81b3-d0f187fdb4a2.png)
+
+
+## 21/03/11
+
+el02.jsp
+
+-EL을 통한 사칙 연산
+
+![image](https://user-images.githubusercontent.com/44190559/110733906-2131fb00-826a-11eb-82d7-33b086625c3b.png)
