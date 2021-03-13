@@ -72,7 +72,7 @@ el02.jsp
 
 ## 21/03/13
 
-jstl01.jsp, jstl02.jsp
+jstl01~jstl07.jsp
 
 - JSTL(JSP Standard Tag Library)는 JSP 페이지에서 조건, 반복문 등을 html tag 형태로 작성할 수 있게 도와줌.
 - 프론트엔드 개발자들은 html형태로 수정할 수 있으니까 편할듯!!
