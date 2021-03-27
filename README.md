@@ -80,3 +80,12 @@ jstl01~jstl07.jsp
 ![image](https://user-images.githubusercontent.com/44190559/111028645-3f028a00-843b-11eb-958c-dec7f4787c5e.png)
 ![image](https://user-images.githubusercontent.com/44190559/111028660-4de93c80-843b-11eb-96fa-96fc72ad2598.png)
 
+
+## 21/03/27
+
+mavenweb
+- Maven을 활용한 JDBC 활용 구성
+- 간단한 SQL 통해 연동 시험해 보기 !
+
+![image](https://user-images.githubusercontent.com/44190559/112725132-047c0f80-8f5a-11eb-8dbd-928a6f0f86bf.png)
+![image](https://user-images.githubusercontent.com/44190559/112725162-25446500-8f5a-11eb-9d61-f2b4b5acf3c9.png)
