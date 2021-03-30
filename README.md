@@ -83,7 +83,7 @@ jstl01~jstl07.jsp
 
 ## 21/03/30
 
- 만들기
+ 방명록 만들기
 - Maven,JDBC
 
 ![image](https://user-images.githubusercontent.com/44190559/113014812-e3b0f580-91b7-11eb-82d4-bab9c566c110.png)
